@@ -41,7 +41,7 @@ include sources.mk
 
 # Platform Overrides
 PLATFORM = HOST
-TARGET = ass3
+TARGET = as3
 GCFLAGS = -Wall -Werror -g -O0 -std=c99 
 
 # Architectures Specific Flags
