@@ -43,8 +43,8 @@ int main()
   }
 
   for( l1 = 0; l1 < g2; l3++)
-  {
-    g1 = func(l2);
+   {
+     g1 = func(l2);
   }
 
   return 0;
